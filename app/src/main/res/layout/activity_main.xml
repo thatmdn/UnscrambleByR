@@ -4,17 +4,17 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".MainActivity">
+    tools:context="com.example.unscramblebyr.MainActivity">
 
     <androidx.fragment.app.FragmentContainerView
         android:id="@+id/fragment_game"
-        android:name="com.example.unscramblefromr.ui.game.GameFragment"
+        android:name="com.example.unscramblebyr.ui.game.GameFragment"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        tools:layout="@layout/fragment_game"></androidx.fragment.app.FragmentContainerView>
+        tools:layout="@layout/fragment_game" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

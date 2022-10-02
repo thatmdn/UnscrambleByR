@@ -1,12 +1,12 @@
-package com.example.unscramblefromr.ui.game
+package com.example.unscramblebyr.ui.game
 
 import android.os.Bundle
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.fragment.app.Fragment
-import com.example.unscramblefromr.R
-import com.example.unscramblefromr.databinding.FragmentGameBinding
+import com.example.unscramblebyr.R
+import com.example.unscramblebyr.databinding.FragmentGameBinding
 
 /**
  * Fragment with main playing game logic

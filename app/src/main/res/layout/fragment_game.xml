@@ -11,7 +11,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:padding="@dimen/default_padding"
-        tools:context=".ui.game.GameFragment">
+        tools:context="com.example.unscramblebyr.ui.game.GameFragment">
 
         <Button
             android:id="@+id/skip"

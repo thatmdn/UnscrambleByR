@@ -1,4 +1,4 @@
-package com.example.unscramblefromr.ui.game
+package com.example.unscramblebyr.ui.game
 
 // List of all the words for the Game
 val allWordsList: List<String> =
